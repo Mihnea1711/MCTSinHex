@@ -22,4 +22,4 @@ The MCTS algorithm plays a crucial role in this project, driving the AI agent's 
     game_manager.py, console_ui.py: Facilitates user interaction and interface.
 
 ![image](images/algorithm.png)
-<img src="images/img1.png" alt="Screenshot 1" width="200"> <img src="images/img2.png" alt="Screenshot 2" width="200">
+<img src="images/img1.png" alt="Screenshot 1" width="300"> <img src="images/img2.png" alt="Screenshot 2" width="300">
